@@ -4,6 +4,7 @@
 
 - [1. População e amostra](#1-populacao-e-amostra)
 - [2. Tabela de números aleatórios](#2-tabela-de-numeros-aleatorios)
+- [3. Amostragem aleatória simples](#3-amostragem-aleatoria-simples)
 
 
 ## 1. População e amostra
@@ -31,5 +32,15 @@ A amostra precisa ser RANDÔMICA e REPRESENTATIVA.
 <div align="center">
   <a href="#" target="_blank">
     <img src="doc/images/amostragem_tabela_de_numeros_aleatorios.png" alt="amostragem_tabela_de_numeros_aleatorios" />
+  </a>
+</div>
+
+## 3. Amostragem aleatória simples
+
+Faça upload do notebook no Google Colab. O arquivo se encontra em: (amostragem/Amostragem.ipynb)
+
+<div align="center">
+  <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank">
+    <img src="doc/images/google_colab.png" alt="google_colab" />
   </a>
 </div>
