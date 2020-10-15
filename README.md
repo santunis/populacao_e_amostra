@@ -3,6 +3,7 @@
 # POPULAÇÃO E AMOSTRA
 
 - [1. População e amostra](#1-populacao-e-amostra)
+- [2. Tabela de números aleatórios](#2-tabela-de-numeros-aleatorios)
 
 
 ## 1. População e amostra
@@ -15,6 +16,20 @@ A amostra precisa ser RANDÔMICA e REPRESENTATIVA.
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="doc/populacao_e_amostra.png" alt="populacao_e_amostra" />
+    <img src="doc/images/populacao_e_amostra.png" alt="populacao_e_amostra" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.analyticsvidhya.com/blog/2019/09/data-scientists-guide-8-types-of-sampling-techniques/">
+    <img src="doc/images/tipo_de_amostragem.png" alt="tipo_de_amostragem" />
+  </a>
+</div>
+
+## 2. Tabela de números aleatórios
+
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="doc/images/amostragem_tabela_de_numeros_aleatorios.png" alt="amostragem_tabela_de_numeros_aleatorios" />
   </a>
 </div>
